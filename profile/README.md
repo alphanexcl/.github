@@ -37,28 +37,20 @@ Conoce al equipo que hace posible los servicios ofrecidos por **AlphaNex**
 
 ### Directiva
 
-[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder @neildevop 
-
-[Camilo Lagos](https://www.linkedin.com/in/camilolagositurriaga/), CTO @kmilol4gos 
-
-[Benjamín Ramírez](https://www.linkedin.com/in/benjauramirez/), CIO @viksosdev 
-
+[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder @neildevop </br>
+[Camilo Lagos](https://www.linkedin.com/in/camilolagositurriaga/), CTO @kmilol4gos </br>
+[Benjamín Ramírez](https://www.linkedin.com/in/benjauramirez/), CIO @viksosdev </br>
 [Carlos Quinteros](https://www.linkedin.com/in/carlos-quinteros-gonz%C3%A1lez-98a4232b9/), BDE @llamas8x 
 
 
 ### Equipo en acción
 
-[Nicolas Pozo](https://www.linkedin.com/in/nicol%C3%A1s-pozo-villagran-9504482a6/), @NicolasPozoV 
-
-[Javier Nanco](https://www.linkedin.com/in/javier-nanco-40043126b/), @JavierNancoB 
-
-[Víctor Maureira](https://www.linkedin.com/in/v%C3%ADctor-guzm%C3%A1n-maureira-24078a302/), @Vitokin 
-
+[Nicolas Pozo](https://www.linkedin.com/in/nicol%C3%A1s-pozo-villagran-9504482a6/), @NicolasPozoV </br>
+[Javier Nanco](https://www.linkedin.com/in/javier-nanco-40043126b/), @JavierNancoB </br>
+[Víctor Maureira](https://www.linkedin.com/in/v%C3%ADctor-guzm%C3%A1n-maureira-24078a302/), @Vitokin </br>
 [Francisco Solis](https://www.linkedin.com/in/franciscosolismat/), @Im-Fran </br>
-[Constanza Olivos](https://cl.linkedin.com/in/constanza-olivos-fern%C3%A1ndez), @Coniiii 
-
-[Byron Acuña](https://www.linkedin.com/in/byron-acu%C3%B1a-5545b1289), @Byron-acuna 
-
+[Constanza Olivos](https://cl.linkedin.com/in/constanza-olivos-fern%C3%A1ndez), @Coniiii </br>
+[Byron Acuña](https://www.linkedin.com/in/byron-acu%C3%B1a-5545b1289), @Byron-acuna </br>
 [Sebastian Poblete](https://www.linkedin.com/in/sebastian-andres-poblete-chacon-933501291), @sebapoblete09 
 
 ## Políticas de privacidad
