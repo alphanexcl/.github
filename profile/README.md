@@ -19,7 +19,7 @@ Gestión de recursos en instituciones, **proximamente** más información.
 Puedes encontrarnos en las siguientes plataformas
 
 [LinkedIn](https://www.linkedin.com/company/alphanexcl/) </br>
-[Instagram](https://www.instagram.com/alphanexcl/) </br>
+<a href="https://www.instagram.com/alphanexcl/" style="color:#5851DB"> Instagram </a>
 X (ex Twitter) - *Proximamente* </br>
 Facebook - *Proximamente* </br>
 TikTok - *Proximamente* </br>
@@ -37,7 +37,7 @@ Conoce al equipo que hace posible los servicios ofrecidos por **AlphaNex**
 
 ### Directiva
 
-[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder '[@neildevop](https://github.com/neildevop)' </br>
+[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder [@neildevop](https://github.com/neildevop) </br>
 [Camilo Lagos](https://www.linkedin.com/in/camilolagositurriaga/), CTO @kmilol4gos </br>
 [Benjamín Ramírez](https://www.linkedin.com/in/benjauramirez/), CIO @viksosdev </br>
 [Carlos Quinteros](https://www.linkedin.com/in/carlos-quinteros-gonz%C3%A1lez-98a4232b9/), BDE @llamas8x 
