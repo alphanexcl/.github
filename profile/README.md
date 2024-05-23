@@ -18,7 +18,7 @@ Gestión de recursos en instituciones, **proximamente** más información.
 
 Puedes encontrarnos en las siguientes plataformas
 
-<a href="https://www.linkedin.com/company/alphanexcl/" style="color:red"> LinkedIn </a> </br>
+<a href="https://www.linkedin.com/company/alphanexcl/" style="text-decoration:none"> LinkedIn </a> </br>
 <a href="https://www.instagram.com/alphanexcl/"> Instagram </a> </br>
 X (ex Twitter) - *Proximamente* </br>
 Facebook - *Proximamente* </br>
