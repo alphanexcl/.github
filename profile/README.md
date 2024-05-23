@@ -20,7 +20,7 @@ Puedes encontrarnos en las siguientes plataformas
 
 <a href="https://www.linkedin.com/company/alphanexcl/" style="text-decoration:none"> LinkedIn </a> </br>
 <a href="https://www.instagram.com/alphanexcl/"> Instagram </a> </br>
-X (ex Twitter) - *Proximamente* </br>
+<a href="https://x.com/alphanexcl"> X (ex Twitter) </a> </br>
 Facebook - *Proximamente* </br>
 TikTok - *Proximamente* </br>
 
