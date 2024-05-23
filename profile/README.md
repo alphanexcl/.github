@@ -18,18 +18,18 @@ Gestión de recursos en instituciones, **proximamente** más información.
 
 Puedes encontrarnos en las siguientes plataformas
 
-<a href="https://www.linkedin.com/company/alphanexcl/" style="text-decoration:none"> LinkedIn </a> </br>
-<a href="https://www.instagram.com/alphanexcl/"> Instagram </a> </br>
-<a href="https://x.com/alphanexcl"> X (ex Twitter) </a> </br>
+<a href="https://www.linkedin.com/company/alphanexcl/" target="_blank"> LinkedIn </a> </br>
+<a href="https://www.instagram.com/alphanexcl/" target="_blank"> Instagram </a> </br>
+<a href="https://x.com/alphanexcl" target="_blank"> X (ex Twitter) </a> </br>
 Facebook - *Proximamente* </br>
 TikTok - *Proximamente* </br>
 
-Si quieres mayor información de la StartUp o de los servicios ofrecidos por AlphaNex puedes visitar nuestro sitio web haciendo click <a href="https://alphanex.cl"> aquí </a>.
+Si quieres mayor información de la StartUp o de los servicios ofrecidos por AlphaNex puedes visitar nuestro sitio web haciendo click <a href="https://alphanex.cl" target="_blank"> aquí </a>.
 
 ## Contacto
 
 Si tienes alguna idea o propuesta comercial puedes contactarnos a traves de e-mail. </br>
-Para contactarnos haz click <a href="mailto:contacto@alphanex.cl"> aquí </a>.
+Para contactarnos haz click <a href="mailto:contacto@alphanex.cl" target="_blank"> aquí </a>.
 
 ## Nuestro Equipo
 
