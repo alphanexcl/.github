@@ -1,4 +1,4 @@
-**AlphaNex**
+# **AlphaNex**
 
 En AlphaNex, sabemos que las grandes ideas son el motor de las startups, pero es el equipo detrás de esas ideas el que las hace realidad. Por eso, en nuestra start-up contamos con un equipo capaz y motivado para ofrecer las mejores soluciones a problemas comunes. Únete a nosotros y juntos construiremos un futuro más inteligente y sostenible para todos.
 
