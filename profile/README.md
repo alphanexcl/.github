@@ -37,7 +37,7 @@ Conoce al equipo que hace posible los servicios ofrecidos por **AlphaNex**
 
 ### Directiva
 
-[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder '[https://github.com/neildevop]()' </br>
+[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder '[@neildevop](https://github.com/neildevop)' </br>
 [Camilo Lagos](https://www.linkedin.com/in/camilolagositurriaga/), CTO @kmilol4gos </br>
 [Benjamín Ramírez](https://www.linkedin.com/in/benjauramirez/), CIO @viksosdev </br>
 [Carlos Quinteros](https://www.linkedin.com/in/carlos-quinteros-gonz%C3%A1lez-98a4232b9/), BDE @llamas8x 
