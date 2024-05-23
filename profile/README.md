@@ -1,4 +1,4 @@
-# **AlphaNex**
+**AlphaNex**
 
 En AlphaNex, sabemos que las grandes ideas son el motor de las startups, pero es el equipo detrás de esas ideas el que las hace realidad. Por eso, en nuestra start-up contamos con un equipo capaz y motivado para ofrecer las mejores soluciones a problemas comunes. Únete a nosotros y juntos construiremos un futuro más inteligente y sostenible para todos.
 
@@ -18,17 +18,17 @@ Gestión de recursos en instituciones, **proximamente** más información.
 
 Puedes encontrarnos en las siguientes plataformas
 
-[LinkedIn](https://www.linkedin.com/company/alphanexcl/)
-[Instagram](https://www.instagram.com/alphanexcl/)
-X (ex Twitter) - *Proximamente*
-Facebook - *Proximamente*
-TikTok - *Proximamente*
+[LinkedIn](https://www.linkedin.com/company/alphanexcl/) </br>
+[Instagram](https://www.instagram.com/alphanexcl/) </br>
+X (ex Twitter) - *Proximamente* </br>
+Facebook - *Proximamente* </br>
+TikTok - *Proximamente* </br>
 
 Si quieres mayor información de la StartUp o de los servicios ofrecidos por AlphaNex puedes visitar nuestro sitio web haciendo click [aquí](https://alphanex.cl).
 
 ## Contacto
 
-Si tienes alguna idea o propuesta comercial puedes contactarnos a traves de e-mail.
+Si tienes alguna idea o propuesta comercial puedes contactarnos a traves de e-mail. </br>
 Para contactarnos haz click [aquí](mailto:contacto@alphanex.cl)
 
 ## Nuestro Equipo
@@ -37,20 +37,29 @@ Conoce al equipo que hace posible los servicios ofrecidos por **AlphaNex**
 
 ### Directiva
 
-[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder @neildevop
-[Camilo Lagos](https://www.linkedin.com/in/camilolagositurriaga/), CTO @kmilol4gos
-[Benjamín Ramírez](https://www.linkedin.com/in/benjauramirez/), CIO @viksosdev
-[Carlos Quinteros](https://www.linkedin.com/in/carlos-quinteros-gonz%C3%A1lez-98a4232b9/), BDE @llamas8x
+[Neil Jara](https://www.linkedin.com/in/neil-j-81445b287/), CEO & Founder @neildevop 
+
+[Camilo Lagos](https://www.linkedin.com/in/camilolagositurriaga/), CTO @kmilol4gos 
+
+[Benjamín Ramírez](https://www.linkedin.com/in/benjauramirez/), CIO @viksosdev 
+
+[Carlos Quinteros](https://www.linkedin.com/in/carlos-quinteros-gonz%C3%A1lez-98a4232b9/), BDE @llamas8x 
+
 
 ### Equipo en acción
 
-[Nicolas Pozo](https://www.linkedin.com/in/nicol%C3%A1s-pozo-villagran-9504482a6/), @NicolasPozoV
-[Javier Nanco](https://www.linkedin.com/in/javier-nanco-40043126b/), @JavierNancoB
-[Víctor Maureira](https://www.linkedin.com/in/v%C3%ADctor-guzm%C3%A1n-maureira-24078a302/), @Vitokin
-[Francisco Solis](https://www.linkedin.com/in/franciscosolismat/), @Im-Fran
-[Constanza Olivos](https://cl.linkedin.com/in/constanza-olivos-fern%C3%A1ndez), @Coniiii
-[Byron Acuña](https://www.linkedin.com/in/byron-acu%C3%B1a-5545b1289), @Byron-acuna
-[Sebastian Poblete](https://www.linkedin.com/in/sebastian-andres-poblete-chacon-933501291), @sebapoblete09
+[Nicolas Pozo](https://www.linkedin.com/in/nicol%C3%A1s-pozo-villagran-9504482a6/), @NicolasPozoV 
+
+[Javier Nanco](https://www.linkedin.com/in/javier-nanco-40043126b/), @JavierNancoB 
+
+[Víctor Maureira](https://www.linkedin.com/in/v%C3%ADctor-guzm%C3%A1n-maureira-24078a302/), @Vitokin 
+
+[Francisco Solis](https://www.linkedin.com/in/franciscosolismat/), @Im-Fran </br>
+[Constanza Olivos](https://cl.linkedin.com/in/constanza-olivos-fern%C3%A1ndez), @Coniiii 
+
+[Byron Acuña](https://www.linkedin.com/in/byron-acu%C3%B1a-5545b1289), @Byron-acuna 
+
+[Sebastian Poblete](https://www.linkedin.com/in/sebastian-andres-poblete-chacon-933501291), @sebapoblete09 
 
 ## Políticas de privacidad
 
