@@ -21,7 +21,7 @@ Puedes encontrarnos en las siguientes plataformas
 <a href="https://www.linkedin.com/company/alphanexcl/" target="_blank"> LinkedIn </a> </br>
 <a href="https://www.instagram.com/alphanexcl/" target="_blank"> Instagram </a> </br>
 <a href="https://x.com/alphanexcl" target="_blank"> X (ex Twitter) </a> </br>
-<a href="https://www.facebook.com/alphanexcl/"> Facebook </> </br>
+<a href="https://www.facebook.com/alphanexcl/"> Facebook </a> </br>
 TikTok - *Proximamente* </br>
 
 Si quieres mayor información de la StartUp o de los servicios ofrecidos por AlphaNex puedes visitar nuestro sitio web haciendo click <a href="https://alphanex.cl" target="_blank"> aquí </a>.
